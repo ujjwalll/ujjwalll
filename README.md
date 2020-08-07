@@ -1,6 +1,26 @@
 # Hi there 👋
 
+Social Media:
+
+<!-- README -->
+
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+
+[1]: http://www.twitter.com/ujjjwalll
+[6]: http://www.github.com/ujjwalll
+
 Quick Facts about me:
+
 
 ### Undergrad Student (CSE) at IIIT Delhi, India.
 
