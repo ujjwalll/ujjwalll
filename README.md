@@ -8,15 +8,18 @@ Social Media:
 [![alt text][6.1]][6]
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (Stock me on Twitter :p)
+[3:1]: https://i.imgur.com/0IdggSZ.png (Connect me on Linkedin)
+[6.1]: http://i.imgur.com/0o48UoR.png (fork me on GitHub :D)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[3:2]: https://i.imgur.com/0IdggSZ.png (Connect me on Linkedin)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
 
 [1]: http://www.twitter.com/ujjjwalll
+[3]: https://www.linkedin.com/in/ujjwalsingh03
 [6]: http://www.github.com/ujjwalll
 
 Quick Facts about me:
