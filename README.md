@@ -28,7 +28,7 @@ Quick Facts about me:
 ### Undergrad Student (CSE) at IIIT Delhi, India.
 
 - 🔭 Google Summer of Code @ [INCF](https://www.incf.org/).
-- Co-Founder and Developer[Devolearn](https://github.com/DevoLearn) - Data driven research on embryos with deep learning models.
+- Co-Founder and Developer @ [Devolearn](https://github.com/DevoLearn) - Data driven research on embryos with deep learning models.
 - 🌱 I’m currently learning Computer Vision and Neural Networks
 - 👯 I’m looking to collaborate on Research and Development Project.
 - 💬 Ask me about Natural Language Processing and Backend Development.
