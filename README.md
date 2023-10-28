@@ -25,7 +25,7 @@ Social Media:
 Quick Facts about me:
 
 
-### Undergrad Student (CSE) at IIIT Delhi, India.
+### Software Dev @Deutsche Telekom AG
 
 - 🔭 Google Summer of Code @ [INCF](https://www.incf.org/).
 - Co-Founder and Developer @ [Devolearn](https://github.com/DevoLearn) - Data driven research on embryos with deep learning models.
